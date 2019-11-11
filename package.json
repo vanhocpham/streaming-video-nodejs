@@ -4,6 +4,7 @@
   "description": "streaming video nodejs",
   "main": "index.js",
   "scripts": {
+    "start": "nodemon index.js",
     "test": "mocha"
   },
   "repository": {
@@ -22,6 +23,7 @@
   },
   "homepage": "https://github.com/hoc-anms/streaming-video-nodejs#readme",
   "devDependencies": {
+    "express": "^4.17.1",
     "nodemon": "^1.19.4"
   }
 }
