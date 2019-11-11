@@ -1,0 +1,27 @@
+{
+  "name": "streaming-video-nodejs",
+  "version": "1.0.0",
+  "description": "streaming video nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hoc-anms/streaming-video-nodejs.git"
+  },
+  "keywords": [
+    "nodejs",
+    "streaming",
+    "vide"
+  ],
+  "author": "hoc_anms",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hoc-anms/streaming-video-nodejs/issues"
+  },
+  "homepage": "https://github.com/hoc-anms/streaming-video-nodejs#readme",
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  }
+}
